@@ -1,0 +1,22 @@
+v 3
+d rioc: Stata module to compute Relative improvement over chance (RIOC)
+d
+d
+d {cmd:rioc} calculates the relative improvement over chance coefficient (RIOC) for 2 x 2 tables
+d
+d KW: RIOC
+d KW: classification
+d KW: chance agreement
+d KW: kappa
+d
+d Requires: Stata version 11.2
+d
+d Distribution-Date: 20260716
+d
+d Author: Daniel Klein
+d Support: email klein.daniel.81@gmail.com
+d
+f rioc.ado
+f rioci.ado
+f rioc.sthlp
+f rioci.sthlp

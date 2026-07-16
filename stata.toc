@@ -1,0 +1,2 @@
+v 3
+p rioc Stata module to compute Relative improvement over chance (RIOC)
